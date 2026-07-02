@@ -1,0 +1,36 @@
+*----------------------------------------------------------------------*
+* Station name: WAIFOR, Main station
+* City:         Ibadan
+* Author:       W. Gerritsma                           -99.0: NILL VALUE
+* Source:       7th Annual Report, Oil Palm Research Station Nigeria
+*
+* Comments:  Angstrom parameters not yet determined
+*
+* Longitude: 0 22 W, Latitude 6 15 N, Altitude ??
+*
+* Column     Monthly averages
+* 1          Station number
+* 2          Year
+* 3          Day
+* 4          Sunshine duration (hours d-1)
+* 5          Minimum temperature (degrees C)
+* 6          Maximum temperature (degrees C)
+* 7          Vapour pressure at 9.00 G.M.T (kPa)
+* 8          mean wind speed (m s-1)
+* 9          Precipitation (mm)
+*----------------------------------------------------------------------*
+0.36  6.25  0.00 0.00 0.00
+  2 1953   1      5.7     23.9     30.7     3.64    -99.0       18
+  2 1953  15      5.7     23.9     30.7     3.64    -99.0       18
+  2 1953  46      5.5     22.4     30.7     3.26    -99.0       68
+  2 1953  74      5.0     23.0     31.3     3.27    -99.0      126
+  2 1953 105      4.8     22.4     30.4     3.02    -99.0      138
+  2 1953 135      5.6     21.9     30.6     3.25    -99.0      141
+  2 1953 166      3.8     22.0     28.8     3.03    -99.0      219
+  2 1953 196      3.0     22.0     27.4     2.98    -99.0      367
+  2 1953 227      1.9     21.6     26.9     2.83    -99.0       69
+  2 1953 258      2.4     22.0     28.1     2.95    -99.0      367
+  2 1953 288      4.1     21.8     28.9     2.92    -99.0      241
+  2 1953 319      6.5     21.7     30.4     3.03    -99.0       53
+  2 1953 349      6.9     18.6     30.7     2.91    -99.0        7
+  2 1953 365      6.5     20.1     29.7     2.95    -99.0        7

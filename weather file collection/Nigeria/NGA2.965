@@ -1,0 +1,35 @@
+*----------------------------------------------------------------------*
+* Station name: NIFOR, Main station (Previously WAIFOR)
+* City:         Ibadan
+* Author:       W. Gerritsma                           -99.0: NILL VALUE
+* Source:       2nd Annual Report (1965-66)
+*               Nigerian Institute For Oil palm Research
+*
+* Longitude: 0 22' W, Latitude: 6 15' N, Altitude ??
+*
+* Column     Monthly averages
+* 1          Station number
+* 2          Year
+* 3          Day
+* 4          Average daily radiation (kJ m-2 d-1)
+* 5          Minimum temperature (degrees C)
+* 6          Maximum temperature (degrees C)
+* 7          Vapour pressure at 9.00 G.M.T (kPa)
+* 8          mean wind speed (m s-1)
+* 9          Precipitation (mm)
+*----------------------------------------------------------------------*
+0.36  6.25  0.00 0.00 0.00
+2 1965  1   13161 22.3  31.5  2.95  -99.0 25
+2 1965  15  11332 22.6  31.8  2.99  -99.0 25
+2 1965  46  13625 22.2  32.7  3.04  -99.0 40
+2 1965  74  14810 22.5  33.2  3.02  -99.0 219
+2 1965  105 13872 21.8  31.8  3.01  -99.0 186
+2 1965  135 16024 21.7  31.6  2.98  -99.0 210
+2 1965  166 15007 21.3  30.3  3.55  -99.0 297
+2 1965  196 11365 21.7  27.9  2.82  -99.0 630
+2 1965  227 10289 21.6  27.7  2.79  -99.0 534
+2 1965  258 10381 21.3  28.8  2.77  -99.0 246
+2 1965  288 13571 21.9  30.8  2.91  -99.0 65
+2 1965  319 14743 22.7  32.5  3.10  -99.0 24
+2 1965  349 14768 21.6  31.8  2.92  -99.0 4
+2 1965  365 5312  21.7  32.2  2.86  -99.0 4

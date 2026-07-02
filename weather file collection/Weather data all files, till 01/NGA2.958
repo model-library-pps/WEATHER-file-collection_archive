@@ -1,0 +1,37 @@
+*----------------------------------------------------------------------*
+* Station name: WAIFOR, Main station
+* City:         Ibadan
+* Author:       W. Gerritsma                           -99.0: NILL VALUE
+* Source:       7th Annual Report, WAIFOR (1958)
+*
+* Comments:  Angstrom parameters not yet determined
+*
+* Longitude: 0 22 W, Latitude 6 15 N, Altitude ??
+*
+* Column     Monthly averages
+* 1          Station number
+* 2          Year
+* 3          Day
+* 4          Average daily radiation (kJ m-2 d-1)
+* 5          Minimum temperature (degrees C)
+* 6          Maximum temperature (degrees C)
+* 7          Vapour pressure at 9.00 G.M.T (kPa)
+* 8          mean wind speed (m s-1)
+* 9          Precipitation (mm)
+*----------------------------------------------------------------------*
+0.36  6.25  0.00 0.00 0.00
+2	1958	1	13437	22.2	31.5	3.34	-99.0	6
+2	1958	15	13437	22.9	31.6	3.41	-99.0	6
+2	1958	46	15698	22	33.6	3.31	-99.0	3
+2	1958	74	15949	23.1	34.2	3.39	-99.0	42
+2	1958	105	15446	23.1	32.4	3.24	-99.0	91
+2	1958	135	14818	22.4	31	3.12	-99.0	160
+2	1958	166	14567	22.1	29.2	3.00	-99.0	252
+2	1958	196	12558	20.7	27.7	2.73	-99.0	29
+2	1958	227	11218	21.2	27.2	2.76	-99.0	115
+2	1958	258	13605	21.8	28.4	2.84	-99.0	174
+2	1958	288	14944	21.9	30.2	2.94	-99.0	231
+2	1958	319	15070	22.2	31.2	3.08	-99.0	115
+2	1958	349	13814	22.5	31.4	3.23	-99.0	0
+2	1958	365	13374	22.1	31.2	3.03	-99.0	0
+

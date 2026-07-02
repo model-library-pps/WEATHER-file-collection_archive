@@ -1,0 +1,35 @@
+*---------------------------------------------------------------------------*
+* Station name: STRASBOURG/ENTZHE, FRANCE
+* Longterm average - period: 1961-1986                    -99.000: NIL VALUE
+* Author: Fre de Koning
+* Source: Meteoconsult, adaptations by Cees van Diepen en Fre de Koning
+* Comments: Irradiation calculated from daily sunshine, windspeed estimated.
+*
+* Longitude: E, latitude: N, altitude: m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       irradiation                   (kJ m-2 d-1)
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed               (m s-1)
+* 9       precipitation                 (mm d-1)
+*---------------------------------------------------------------------------*
+ -99.00  48.60   154. 0.00 0.00
+  13 1000   1  2457.  -1.4   4.0   0.595   2.5   0.0
+  13 1000  15  2647.  -2.0   3.7   0.580   2.8  35.0
+  13 1000  46  4868.  -1.7   5.4   0.600   2.6  32.0
+  13 1000  74  8459.   0.4  10.6   0.700   2.6  35.0
+  13 1000 105 13600.   3.9  14.9   0.840   2.8  47.0
+  13 1000 135 15694.   7.8  19.3   1.130   2.4  77.0
+  13 1000 166 17004.  11.2  22.7   1.410   1.8  74.0
+  13 1000 196 17817.  13.2  24.6   1.540   1.9  54.0
+  13 1000 227 15427.  12.6  23.8   1.550   1.8  68.0
+  13 1000 258 11510.   9.7  20.2   1.360   1.9  54.0
+  13 1000 288  6640.   5.1  14.8   1.050   1.7  39.0
+  13 1000 319  3430.   2.1   7.9   0.770   1.9  46.0
+  13 1000 349  2266.  -0.8   4.2   0.610   2.3  37.0
+  13 1000 365  2457.  -1.4   4.0   0.595   2.5   0.0

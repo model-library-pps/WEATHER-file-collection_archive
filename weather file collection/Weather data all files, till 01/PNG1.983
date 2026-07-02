@@ -1,0 +1,35 @@
+*-------------------------------------------------------------*
+* Station name: Dami Oil Palm Research Station
+* Year: 1983
+* Author: W. Gerritsma
+* Source: Annual Report PNG OPRA, 1983 &
+*         N. A. Warringa, 1985. Report on Investigation 902
+*
+* Longitude: 150 E, latitude:-5 30 N, altitude: 5 m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       sunshine hours
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed (height: 2 m) (m s-1)
+* 9       precipitation.rain days       (mm d-1.days)
+*-------------------------------------------------------------*
+ 150 -5.5  5.0  0.27  0.54
+   1 1983   1 4.40  22.9  30.9  3.20  0.21   -99.00
+   1 1983  15 3.10  23.1  30.4  3.06  0.29   750.31
+   1 1983  46 2.90  23.2  29.9  3.07  0.31   797.28
+   1 1983  74 3.20  23.1  30.3  3.07  0.35   808.26
+   1 1983 105 4.30  23.0  30.7  3.09  0.37   388.23
+   1 1983 135 4.60  22.5  31.3  3.17  0.33   285.27
+   1 1983 166 3.10  23.6  31.3  2.98  0.73   287.21
+   1 1983 196 2.20  23.5  29.8  2.90  1.34   249.21
+   1 1983 227 4.80  23.1  30.5  2.86  1.26   226.20
+   1 1983 258 5.30  23.2  31.6  2.81  1.03   164.18
+   1 1983 288 5.10  23.2  32.0  2.95  0.65   111.18
+   1 1983 319 4.80  23.0  31.9  3.04  0.35   400.20
+   1 1983 349 2.80  23.9  31.0  3.07  0.35   304.24
+   1 1983 365 4.90  23.3  31.4  3.07  0.33   -99.00

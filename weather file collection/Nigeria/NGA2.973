@@ -1,0 +1,33 @@
+*----------------------------------------------------------------------*
+* Station name: NIFOR, Main station (Previously WAIFOR)
+* Author:       W. Gerritsma                           -99.0: NILL VALUE
+* Source:       10th Annual Report (1973-74)
+*               Nigerian Institute For Oil palm Research
+*
+* Longitude: 0 22 W, Latitude: 6 15 N, Altitude ??
+*
+* Column     Monthly averages
+* 1          Station number
+* 2          Year
+* 3          Day
+* 4          Average daily radiation (kJ m-2 d-1)
+* 5          Minimum temperature (degrees C)
+* 6          Maximum temperature (degrees C)
+* 7          Vapour pressure at 9.00 G.M.T (kPa)
+* 8          mean wind speed (m s-1)
+* 9          Precipitation (mm)
+*----------------------------------------------------------------------*
+0.36  6.25  0.00 0.00 0.00
+2 1973  1   15526 22.6  32.9  3.01  -99.0 13
+2 1973  15  15685 23.5  33.3  3.12  -99.0 13
+2 1973  46  16104 23.9  35.2  3.22  -99.0 30
+2 1973  74  16824 23.5  35.2  2.91  -99.0 98
+2 1973  105 17560 22.9  33.8  3.09  -99.0 161
+2 1973  135 16757 22.0  32.6  3.03  -99.0 193
+2 1973  166 14864 21.8  30.9  2.94  -99.0 154
+2 1973  196 15178 21.7  29.8  2.88  -99.0 350
+2 1973  227 13316 22.1  28.9  2.86  -99.0 221
+2 1973  258 14952 21.8  30.1  2.85  -99.0 306
+2 1973  288 16547 21.8  31.6  2.95  -99.0 223
+2 1973  319 17912 21.1  32.7  2.97  -99.0 57
+2 1973  349 15764 21.5  31.9  3.00  -99.0 10

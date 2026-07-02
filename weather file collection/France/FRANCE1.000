@@ -1,0 +1,35 @@
+*---------------------------------------------------------------------------*
+* Station name: MARSEILLE/MARIGNA, FRANCE
+* Longterm average - period: 1961-1986                    -99.000: NIL VALUE
+* Author: Fre de Koning
+* Source: Meteoconsult, adaptations by Cees van Diepen en Fre de Koning
+* Comments: Irradiation calculated from daily sunshine, windspeed estimated.
+*
+* Longitude: E, latitude: N, altitude: m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       irradiation                   (kJ m-2 d-1)
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed               (m s-1)
+* 9       precipitation                 (mm d-1)
+*---------------------------------------------------------------------------*
+ -99.00  43.30     8. 0.00 0.00
+   1 1000   1  5638.   2.5  10.8   0.760   4.1   0.0
+   1 1000  15  6001.   2.1  10.6   0.740   4.0  45.0
+   1 1000  46  8705.   2.7  12.1   0.760   4.3  57.0
+   1 1000  74 12617.   4.9  14.8   0.830   4.6  46.0
+   1 1000 105 16876.   7.8  18.1   0.960   5.2  45.0
+   1 1000 135 20235.  11.5  22.2   1.210   4.6  44.0
+   1 1000 166 23366.  15.0  26.4   1.540   4.8  30.0
+   1 1000 196 24738.  17.7  29.5   1.700   5.0  12.0
+   1 1000 227 21228.  17.2  28.5   1.710   4.4  28.0
+   1 1000 258 16007.  14.7  25.1   1.590   4.0  50.0
+   1 1000 288 10700.  10.8  20.2   1.300   3.9  77.0
+   1 1000 319  7116.   6.1  14.9   0.970   4.1  61.0
+   1 1000 349  5275.   3.0  10.9   0.780   4.2  59.0
+   1 1000 365  5638.   2.5  10.8   0.760   4.1   0.0

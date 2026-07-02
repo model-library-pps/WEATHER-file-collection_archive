@@ -1,0 +1,35 @@
+*---------------------------------------------------------------------------*
+* Station name: GEISENHEIM, WEST GERMANY
+* Longterm average - period: 1961-1986                    -99.000: NIL VALUE
+* Author: Fre de Koning
+* Source: Meteoconsult, adaptations by Cees van Diepen en Fre de Koning
+* Comments: Irradiation calculated from daily sunshine, windspeed estimated.
+*
+* Longitude: E, latitude: N, altitude: m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       irradiation                   (kJ m-2 d-1)
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed               (m s-1)
+* 9       precipitation                 (mm d-1)
+*---------------------------------------------------------------------------*
+ -99.00  50.00   108. 0.00 0.00
+   8 1000   1  2178.  -0.9   4.1   0.590   2.4   0.0
+   8 1000  15  2399.  -1.6   3.8   0.570   2.4  40.0
+   8 1000  46  4821.  -1.3   5.3   0.560   2.3  32.0
+   8 1000  74  8286.   1.0  10.2   0.660   2.5  37.0
+   8 1000 105 13248.   4.3  14.5   0.770   2.4  40.0
+   8 1000 135 16101.   8.2  19.3   1.040   2.2  55.0
+   8 1000 166 17115.  11.5  22.7   1.300   2.0  58.0
+   8 1000 196 17049.  13.0  24.2   1.440   2.0  56.0
+   8 1000 227 14883.  12.4  23.6   1.440   1.9  54.0
+   8 1000 258 10899.   9.6  19.9   1.260   1.8  40.0
+   8 1000 288  5933.   5.8  14.0   1.010   1.6  40.0
+   8 1000 319  2966.   2.4   7.8   0.750   2.0  50.0
+   8 1000 349  1956.  -0.2   4.4   0.610   2.3  45.0
+   8 1000 365  2178.  -0.9   4.1   0.590   2.4   0.0

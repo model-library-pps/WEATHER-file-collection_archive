@@ -1,0 +1,36 @@
+*----------------------------------------------------------------------*
+* Station name: WAIFOR, Main station
+* City:         Benin
+* Author:       W. Gerritsma                           -99.0: NILL VALUE
+* Source:       10th Annual Report, WAIFOR (1961)
+*
+* Comments:  Angstrom parameters not yet determined
+*
+* Longitude: 0 22 W, Latitude 6 15 N, Altitude ??
+*
+* Column     Monthly averages
+* 1          Station number
+* 2          Year
+* 3          Day
+* 4          Average daily radiation (kJ m-2 d-1)
+* 5          Minimum temperature (degrees C)
+* 6          Maximum temperature (degrees C)
+* 7          Vapour pressure at 9.00 G.M.T (kPa)
+* 8          mean wind speed (m s-1)
+* 9          Precipitation (mm)
+*----------------------------------------------------------------------*
+0.36  6.25  0.00 0.00 0.00
+2 1961  1   14098 21.9  31.8  2.89  -99.0 8
+2	1961	15	13793	21.6	31.7	2.86	-99.0	8
+2	1961	46	16237	21.8	33.6	2.66	-99.0	0
+2	1961	74	15095	22.8	33.3	3.00	-99.0	68
+2	1961	105	17079	22.5	31.9	3.01	-99.0	211
+2	1961	135	16664	22.3	31.3	3.03	-99.0	157
+2	1961	166	13973	21.6	28.8	2.82	-99.0	160
+2	1961	196	11214	21.8	27.1	2.75	-99.0	320
+2	1961	227	13554	20.4	27.6	2.59	-99.0	26
+2	1961	258	14873	21.1	28.7	2.66	-99.0	321
+2	1961	288	15831	21.4	29.8	2.86	-99.0	166
+2	1961	319	17615	22.1	31.8	3.04	-99.0	69
+2	1961	349	16380	20.8	31.8	2.81	-99.0	0
+2	1961	365	15953	20.5	32.1	2.75	-99.0	0

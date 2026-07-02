@@ -1,0 +1,36 @@
+*-------------------------------------------------------------*
+* Station name: Higaturu, Oro Province, Papua New Guinea
+* Year: 1984
+* Author: W. Gerritsma
+*
+* Source: Annual report of PNG OPRA, 1982
+*         N. A. Warringa, 1985. Report on Investigation 902
+*
+* Longitude: 148 E, latitude: -9 N, altitude: 10? m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       sunshine hours
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed (height: 2 m) (m s-1)
+* 9       precipitation.rain days       (mm d-1.days)
+*-------------------------------------------------------------*
+ 148. -9.  10.  0.27  0.54
+   2 1984   1 5.41  22.8  31.7  2.96  1.89   -99.00
+   2 1984  15 7.10  22.5  31.7  2.91  1.86    55.10
+   2 1984  46 5.80  22.7  31.8  3.07  1.56   176.20
+   2 1984  74 4.30  22.9  31.6  3.00  1.70   289.23
+   2 1984 105 5.80  22.2  31.5  3.11  1.61   204.20
+   2 1984 135 4.60  22.0  30.7  2.86  1.47   229.19
+   2 1984 166 4.50  21.6  30.4  2.84  1.70   180.18
+   2 1984 196 4.40  20.7  29.9  2.79  2.18    88.11
+   2 1984 227 4.90  21.4  29.8  2.84  1.91   164.18
+   2 1984 258 7.30  21.2  30.8  2.98  2.18   144.12
+   2 1984 288 6.00  21.8  30.7  2.93  2.04   362.19
+   2 1984 319 7.50  22.1  31.5  3.50  2.09   239.17
+   2 1984 349 6.10  22.6  31.6  3.24  2.04   291.21
+   2 1984 365 5.35  22.7  31.5  3.10  2.02   -99.00

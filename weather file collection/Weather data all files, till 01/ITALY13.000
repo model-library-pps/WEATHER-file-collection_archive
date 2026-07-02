@@ -1,0 +1,35 @@
+*---------------------------------------------------------------------------*
+* Station name: ALGHERO, ITALY
+* Longterm average - period: 1961-1986                    -99.000: NIL VALUE
+* Author: Fre de Koning
+* Source: Meteoconsult, adaptations by Cees van Diepen en Fre de Koning
+* Comments: Irradiation calculated from daily sunshine, windspeed estimated.
+*
+* Longitude: E, latitude: N, altitude: m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       irradiation                   (kJ m-2 d-1)
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed               (m s-1)
+* 9       precipitation                 (mm d-1)
+*---------------------------------------------------------------------------*
+ -99.00  40.60    23. 0.00 0.00
+  13 1000   1  5881.   7.4  13.7   1.020   2.2   0.0
+  13 1000  15  6409.   6.6  13.3   0.970   2.2  63.0
+  13 1000  46  8441.   6.5  13.6   0.970   2.2  63.0
+  13 1000  74 12582.   7.4  14.8   1.040   2.2  55.0
+  13 1000 105 17169.   9.4  17.6   1.200   2.2  42.0
+  13 1000 135 20838.  12.1  21.3   1.460   2.2  28.0
+  13 1000 166 22648.  15.7  25.4   1.760   2.2  11.0
+  13 1000 196 23896.  18.6  28.2   1.980   2.2   3.0
+  13 1000 227 21450.  18.3  28.2   2.020   2.2   7.0
+  13 1000 258 15879.  16.6  25.9   1.880   2.2  39.0
+  13 1000 288 11773.  13.5  22.1   1.560   2.2  82.0
+  13 1000 319  6998.  10.9  17.4   1.270   2.2 124.0
+  13 1000 349  5353.   8.1  14.1   1.070   2.2  92.0
+  13 1000 365  5881.   7.4  13.7   1.020   2.2   0.0

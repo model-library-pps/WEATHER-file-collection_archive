@@ -1,0 +1,35 @@
+*---------------------------------------------------------------------------*
+* Station name: PISA/S. GIUSTO, ITALY
+* Longterm average - period: 1961-1986                    -99.000: NIL VALUE
+* Author: Fre de Koning
+* Source: Meteoconsult, adaptations by Cees van Diepen en Fre de Koning
+* Comments: Irradiation calculated from daily sunshine, windspeed estimated.
+*
+* Longitude: E, latitude: N, altitude: m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       irradiation                   (kJ m-2 d-1)
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed               (m s-1)
+* 9       precipitation                 (mm d-1)
+*---------------------------------------------------------------------------*
+ -99.00  43.70     2. 0.00 0.00
+   5 1000   1  4561.   2.1  10.8   0.790   2.5   0.0
+   5 1000  15  4975.   1.7  10.3   0.760   2.5  76.0
+   5 1000  46  7334.   2.5  11.8   0.780   2.5  71.0
+   5 1000  74 10508.   4.3  14.7   0.900   2.5  81.0
+   5 1000 105 14752.   7.0  17.9   1.080   2.5  63.0
+   5 1000 135 18304.  10.3  21.8   1.390   2.5  60.0
+   5 1000 166 20304.  14.2  25.6   1.720   2.5  43.0
+   5 1000 196 21948.  16.6  28.8   1.960   2.5  22.0
+   5 1000 227 18878.  16.3  28.4   1.950   2.5  61.0
+   5 1000 258 14324.  13.7  25.2   1.720   2.5  86.0
+   5 1000 288 10038.   9.7  20.3   1.360   2.5 119.0
+   5 1000 319  5745.   6.3  14.7   1.040   2.5 118.0
+   5 1000 349  4147.   2.5  11.2   0.820   2.5  85.0
+   5 1000 365  4561.   2.1  10.8   0.790   2.5   0.0

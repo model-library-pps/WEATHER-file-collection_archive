@@ -1,0 +1,34 @@
+*-------------------------------------------------------------*
+* Station name: Dami Oil Palm Research Station
+* Year: 1980
+* Author: W. Gerritsma
+* Source: N. A. Warringa, 1985. Report on Investigation 902
+*
+* Longitude: 150 E, latitude:-5 30 N, altitude: 5 m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       sunshine hours
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed (height: 2 m) (m s-1)
+* 9       precipitation.rain days       (mm d-1.days)
+*-------------------------------------------------------------*
+ 150 -5.5  5.0  0.27  0.54
+   1 1980   1 4.75  22.7  31.4  3.04  0.34   -99.00
+   1 1980  15 4.40  22.9  30.8  3.09  0.31   532.
+   1 1980  46 3.90  23.0  29.9  3.07  0.31   900.
+   1 1980  74 2.80  22.9  29.7  3.02  0.31   681.
+   1 1980 105 5.20  23.1  31.8  2.98  0.31   319.
+   1 1980 135 6.10  21.1  30.2  2.98  0.78   167.
+   1 1980 166 5.50  26.5  30.5  2.88  1.54   200.
+   1 1980 196 4.30  23.0  29.8  2.86  1.30   253.
+   1 1980 227 3.40  23.0  29.7  2.83  1.40   209.
+   1 1980 258 3.50  23.6  29.9  2.83  1.88    92.
+   1 1980 288 7.30  23.3  32.2  2.90  1.31    58.
+   1 1980 319 5.90  22.8  32.0  2.98  0.63   308.
+   1 1980 349 4.70  23.0  31.2  3.13  0.44   298.
+   1 1980 365 4.20  22.9  31.3  3.19  0.41   -99.00

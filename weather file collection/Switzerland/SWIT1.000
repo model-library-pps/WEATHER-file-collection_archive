@@ -1,0 +1,35 @@
+*---------------------------------------------------------------------------*
+* Station name: SANTIS, SWITZERLAND
+* Longterm average - period: 1961-1986                    -99.000: NIL VALUE
+* Author: Fre de Koning
+* Source: Meteoconsult, adaptations by Cees van Diepen en Fre de Koning
+* Comments: Irradiation calculated from daily sunshine, windspeed estimated.
+*
+* Longitude: E, latitude: N, altitude: m.
+*
+* Column  Daily value
+* 1       station number
+* 2       year
+* 3       day
+* 4       irradiation                   (kJ m-2 d-1)
+* 5       minimum temperature           (degrees Celsius)
+* 6       maximum temperature           (degrees Celsius)
+* 7       early morning vapour pressure (kPa)
+* 8       mean wind speed               (m s-1)
+* 9       precipitation                 (mm d-1)
+*---------------------------------------------------------------------------*
+ -99.00  47.20  2500. 0.00 0.00
+   1 1000   1  4198. -10.4  -6.2   0.270   7.8   0.0
+   1 1000  15  4403. -11.2  -6.8   0.250   8.0 202.0
+   1 1000  46  6825. -11.3  -6.7   0.240   7.5 180.0
+   1 1000  74 10402.  -8.9  -4.3   0.260   6.5 164.0
+   1 1000 105 12889.  -6.4  -1.8   0.300   5.9 166.0
+   1 1000 135 15388.  -2.1   3.0   0.410   5.4 197.0
+   1 1000 166 15841.   1.0   6.2   0.520   5.7 249.0
+   1 1000 196 16243.   2.9   8.3   0.610   6.3 302.0
+   1 1000 227 14416.   3.0   8.0   0.620   6.6 278.0
+   1 1000 258 11733.   1.2   5.8   0.580   6.2 208.0
+   1 1000 288  8561.  -2.7   1.5   0.460   6.6 183.0
+   1 1000 319  5417.  -6.5  -2.5   0.360   7.0 190.0
+   1 1000 349  3993.  -9.6  -5.6   0.290   7.7 168.0
+   1 1000 365  4198. -10.4  -6.2   0.270   7.8   0.0
